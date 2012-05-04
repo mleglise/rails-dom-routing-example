@@ -1,0 +1,5 @@
+== DOM-based Routing Example
+
+Based on the Garber-Irish implementation
+
+by Marc Leglise
