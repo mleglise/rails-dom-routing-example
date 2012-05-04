@@ -1,5 +1,9 @@
-== DOM-based Routing Example
+== Rails 3 DOM-based Routing Example
 
 Based on the Garber-Irish implementation
 
 by Marc Leglise
+
+Have a look at the `app/assets` directory for the magic.
+
+Also `app/views/layouts/application.html.erb` and `config/application.rb`
